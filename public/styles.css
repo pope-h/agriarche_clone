@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: "Roboto", sans-serif;
+  }
+
+  body {
+    background: #eee;
+    padding: 0 5px;
+  }
+
+.first-container {
+    margin: 0.5rem 5rem;
+}
+
+.first-container img {
+    height: 50px;
+}
+
+.home-container {
+    margin-left: 10rem;
+}
